@@ -1,6 +1,7 @@
 # calculus
 
 A new Flutter project.
+It is a calculator with all the basic functions along with trigonometric value. Also there are some scientific functions. There is a history panel which shows all the recently done calculations.
 
 ## Getting Started
 
